@@ -1,0 +1,13 @@
+{% extends "zola-es-theme/templates/page.html" -%}
+{% import "es_macros.html" as es_macros -%}
+
+{% block page_meta_extra -%}
+{% set tags = page | get(key="taxonomies", default=[]) | get(key="tag", default=[]) | sort -%}
+{% if tags | length > 0 -%}
+<li class="tags">
+{% for tag in tags -%}
+{{ es_macros::tag(tax = "tag", term = tag) }}
+{% endfor -%}
+</li>
+{% endif -%}
+{% endblock page_meta_extra -%}
