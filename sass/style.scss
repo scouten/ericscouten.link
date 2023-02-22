@@ -1,0 +1,22 @@
+@charset "utf-8";
+
+// White on dark blue color scheme.
+$main-section-background: #212126;
+$dark-accent-background: #111114;
+$footer-accent-background: black;
+$scheme-main: #18181c;
+$text: hsl(0, 0%, 100%);
+$link: hsl(0, 0%, 60%);
+$accent-text-color: hsl(0, 0, 100%);
+
+@import url('https://use.typekit.net/hwf0fzd.css');
+@import "../themes/zola-es-theme/sass/style.scss";
+
+.countries_and_states {
+    padding-top: .4em;
+}
+
+.countries .card .content {
+    .es_image .caption { color: #bbb; }
+    .body { margin-bottom: 1.5em; }
+}
