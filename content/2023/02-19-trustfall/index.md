@@ -1,6 +1,6 @@
 +++
 title = "Trustfall"
-date = 2021-02-19T18:03:00-08:00
+date = 2023-02-19T18:03:00-08:00
 
 [taxonomies]
 tag = ["Rust", "Dev", "Database"]
