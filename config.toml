@@ -23,3 +23,9 @@ es_site = "tmbu"
 map_clustering = false
 is_dark = true
 
+[[taxonomies]]
+name = "tag"
+
+[extra.taxonomies.tag]
+title = "Tags"
+sort = "date"
