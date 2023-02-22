@@ -11,4 +11,5 @@ StreetPass is a cool new browser extension that uses Mastodon's verification sys
 
 <!-- more -->
 
-[StreetPass](https://streetpass.social/)
+* [StreetPass](https://streetpass.social/)
+* [Fediverse Report on Mastodon](https://mastodon.social/@fediversereport/109813142639096272)
