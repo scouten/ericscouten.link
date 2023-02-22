@@ -26,6 +26,13 @@ is_dark = true
 [[taxonomies]]
 name = "tag"
 
+[[taxonomies]]
+name = "via"
+
 [extra.taxonomies.tag]
 title = "Tags"
+sort = "date"
+
+[extra.taxonomies.via]
+title = "Found via"
 sort = "date"

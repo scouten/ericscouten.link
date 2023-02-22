@@ -10,4 +10,14 @@
 {% endfor -%}
 </li>
 {% endif -%}
+
+{% set vias = page | get(key="taxonomies", default=[]) | get(key="via", default=[]) | sort -%}
+Found via
+{% if vias | length > 0 -%}
+<li class="via">
+{% for via in vias -%}
+{{ es_macros::tag(tax = "via", term = via) }}
+{% endfor -%}
+</li>
+{% endif -%}
 {% endblock page_meta_extra -%}
