@@ -23,6 +23,7 @@ es_site = "tmbu"
 map_clustering = false
 is_dark = true
 page_date_prefix = "Found on"
+article_type = "maybe-useful links"
 
 [[taxonomies]]
 name = "tag"
