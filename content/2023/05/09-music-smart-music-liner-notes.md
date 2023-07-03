@@ -1,5 +1,5 @@
 +++
-title = "Mac and iOS app for music liner notes"
+title = "MusicSmart: Music liner notes"
 date = 2023-05-09T05:55:55-07:00
 
 [taxonomies]
