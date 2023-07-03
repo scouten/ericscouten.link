@@ -1,5 +1,5 @@
 +++
-title = "Fathom Analytics"
+title = "Fathom analytics"
 date = 2023-01-28T14:42:00-08:00
 
 [taxonomies]

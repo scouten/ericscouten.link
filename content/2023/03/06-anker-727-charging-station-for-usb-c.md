@@ -1,5 +1,5 @@
 +++
-title = "Anker 727 Charging Station for USB-C"
+title = "Anker 727 charging station for USB-C"
 date = 2023-03-06T07:22:01-08:00
 
 [taxonomies]

@@ -1,5 +1,5 @@
 +++
-title = "Faster Apple Builds with the lld Linker"
+title = "Faster Apple builds with the lld linker"
 date = 2023-03-05T09:06:00-08:00
 
 [taxonomies]

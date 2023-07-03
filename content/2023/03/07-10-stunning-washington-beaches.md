@@ -1,5 +1,5 @@
 +++
-title = "10 Stunning Washington Beaches"
+title = "10 Stunning Washington beaches"
 date = 2023-03-07T12:19:01-08:00
 
 [taxonomies]

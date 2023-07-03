@@ -1,5 +1,5 @@
 +++
-title = "Immutable Strings in Rust"
+title = "Immutable strings in Rust"
 date = 2023-04-03T13:35:07-04:00
 
 [taxonomies]

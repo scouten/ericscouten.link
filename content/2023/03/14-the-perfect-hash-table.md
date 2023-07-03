@@ -1,5 +1,5 @@
 +++
-title = "The Perfect Hash Table"
+title = "The perfect hash table"
 date = 2023-03-14T07:18:52-07:00
 
 [taxonomies]

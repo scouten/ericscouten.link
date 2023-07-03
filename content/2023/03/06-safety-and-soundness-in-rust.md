@@ -1,5 +1,5 @@
 +++
-title = "Safety and Soundness in Rust"
+title = "Safety and soundness in Rust"
 date = 2023-03-06T09:08:23-08:00
 
 [taxonomies]

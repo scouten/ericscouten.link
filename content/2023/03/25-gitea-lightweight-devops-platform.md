@@ -1,5 +1,5 @@
 +++
-title = "Gitea: Lightweight DevOps Platform"
+title = "Gitea: Lightweight DevOps platform"
 date = 2023-03-25T10:29:33-04:00
 
 [taxonomies]

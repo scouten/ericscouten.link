@@ -1,5 +1,5 @@
 +++
-title = "Google: Memory Safe Languages in Android 13"
+title = "Memory safe languages in Android 13"
 date = 2022-12-01T11:55:00-08:00
 
 [taxonomies]

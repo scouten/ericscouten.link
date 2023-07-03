@@ -1,5 +1,5 @@
 +++
-title = "Embed Mastodon Posts"
+title = "Embed Mastodon posts"
 date = 2023-02-23T21:31:00-08:00
 
 [taxonomies]

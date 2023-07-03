@@ -1,5 +1,5 @@
 +++
-title = "Sonos Launches $449 Era 300 Spatial Audio Speaker With Bluetooth"
+title = "Sonos launches $449 Era 300 spatial audiospeaker with Bluetooth"
 date = 2023-03-07T16:57:21-08:00
 
 [taxonomies]

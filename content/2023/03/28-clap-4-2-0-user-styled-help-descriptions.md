@@ -1,5 +1,5 @@
 +++
-title = "Clap 4.2.0: user-styled help descriptions"
+title = "Clap 4.2.0: User-styled help descriptions"
 date = 2023-03-28T18:29:59-04:00
 
 [taxonomies]

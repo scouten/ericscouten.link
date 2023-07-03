@@ -1,5 +1,5 @@
 +++
-title = "Error Handling in Rust"
+title = "Error handling in Rust"
 date = 2023-03-12T15:04:36-07:00
 
 [taxonomies]

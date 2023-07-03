@@ -1,5 +1,5 @@
 +++
-title = "Single-user Mastodon Instance is a Bad Idea"
+title = "Single-user Mastodon instance is a bad idea"
 date = 2023-03-11T21:17:12-08:00
 
 [taxonomies]

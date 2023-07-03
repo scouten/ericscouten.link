@@ -1,5 +1,5 @@
 +++
-title = "Learn Images"
+title = "Learn images"
 date = 2023-02-24T07:09:00-08:00
 
 [taxonomies]

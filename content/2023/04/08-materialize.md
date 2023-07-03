@@ -3,7 +3,7 @@ title = "materialize"
 date = 2023-04-08T09:37:30-04:00
 
 [taxonomies]
-tag = ["Database", "Dev", "Postgres", "Rust", "Sql"]
+tag = ["Database", "Dev", "Postgres", "Rust", "SQL"]
 via = ["Mastodon"]
 +++
 

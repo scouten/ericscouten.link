@@ -1,5 +1,5 @@
 +++
-title = "A Year of Scaling to a Multi-hundred Person Engineering Organization"
+title = "A year of scaling to a multi-hundred person engineering organization"
 date = 2023-04-10T07:12:31-04:00
 
 [taxonomies]
