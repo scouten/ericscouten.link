@@ -7,7 +7,7 @@ tag = ["Dev", "Rust"]
 via = ["Mastodon"]
 +++
 
-via [Rust Weekly](https://mastodon.social/@rust_discussions/110021092996961287): why is safe version of function faster than unsafe?
+via [Rust Weekly](https://mastodon.social/@rust_discussions/110021092996961287): Why is safe version of function faster than unsafe?
 
 <!-- more -->
 
