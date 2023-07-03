@@ -1,5 +1,5 @@
 +++
-title = "Upwelling: Combining real-time collaboration with version control for writers"
+title = "Upwelling"
 date = 2023-03-09T17:29:10-08:00
 
 [taxonomies]
