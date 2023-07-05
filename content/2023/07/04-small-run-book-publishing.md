@@ -7,8 +7,8 @@ tag = ["Book", "Photography", "Publishing"]
 via = ["Mastodon"]
 +++
 
-via [finn](https://chaos.social/@finnp/110654599125266469): Hey 👋 My partner is publishing a book with her photography over the years ✨ You can preorder it here  ☺️
+via [finn](https://chaos.social/@finnp/110654599125266469): Hey 👋 my partner is publishing a book with her photography over the years ✨ You can preorder it here.
 
 <!-- more -->
 
-[Access denied](https://shop.snap-collective.com/products/cadence-in-color-by-maria-louceiro)
+Snap Collective: [Stark by Maria Louceiro](https://shop.snap-collective.com/products/cadence-in-color-by-maria-louceiro)
