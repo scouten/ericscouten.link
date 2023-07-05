@@ -1,0 +1,16 @@
+{%- extends "section.html" -%}
+
+{%- block tags -%}
+<p class="subsections">
+  {%- set tags = get_taxonomy(kind="tag") -%}
+  {%- set_global term_count = 0 -%}
+  {%- for term in tags.items | sort(attribute="page_count") | reverse -%}
+    {%- set_global term_count = term_count + 1 -%}
+    {%- if term_count >= 20 -%}{%- break -%}{%- endif -%}
+    <span class="es-tag">
+      <a href="{{term.path | safe}}">{{ term.name | safe }}</a>
+      <span class="tag is-rounded{%- if config.extra.is_dark %} is-dark{%- endif %}">{{ term.page_count }}</span>
+    </span>
+  {%- endfor -%}
+</p>
+{%- endblock -%}

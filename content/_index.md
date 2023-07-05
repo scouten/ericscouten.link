@@ -1,7 +1,7 @@
 +++
 title = "This Might Be Useful"
 sort_by = "date"
-template = "section.html"
+template = "root.html"
 +++
 
 **Hi, I'm Eric.**
