@@ -14,3 +14,13 @@ via [Ben Sandofsky](https://mastodon.social/@sandofsky/110735512260681098): We j
 Apple App Store: [Spectre Camera](https://spectre.cam/download)
 
 _(My take: Just downloaded the app; eager to kick the tires.)_
+
+---
+
+[Follow up via sdw on Mastodon](https://mastodon.social/@sdw/110735582038591805): 
+
+> Spectre is still pretty nuts to use - doing a 15 or 30 second long exposure without a tripod on my iPhone with one tap. 
+>
+> This is Amsterdam at its peak busy summer season. The square was full of people — but after a single shot, it looks empty.
+
+_(Click the post to see the photo. My take: At a quick glance, it looks convincing.)_
