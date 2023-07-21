@@ -3,7 +3,7 @@ title = "Prevalance of Long COVID"
 date = 2023-06-26T11:49:50-07:00
 
 [taxonomies]
-tag = ["Covid", "Health"]
+tag = ["COVID", "Health"]
 via = ["Mastodon"]
 +++
 
