@@ -1,5 +1,5 @@
 +++
-title = "rust-libp2p: The Rust implementatino of the libp2p networking stack"
+title = "rust-libp2p: The Rust implementation of the libp2p networking stack"
 date = 2023-07-14T14:15:29-07:00
 
 [taxonomies]
