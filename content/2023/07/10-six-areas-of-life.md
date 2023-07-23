@@ -4,7 +4,7 @@ date = 2023-07-10T17:47:47-07:00
 
 [taxonomies]
 tag = ["Life"]
-via = ["RSS"]
+via = ["Blog"]
 +++
 
 Shawn Blanc: [You have six areas of life](https://shawnblanc.net/2023/06/you-have-six-areas-of-life/)

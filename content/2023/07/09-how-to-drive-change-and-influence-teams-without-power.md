@@ -4,7 +4,7 @@ date = 2023-07-09T18:44:18-07:00
 
 [taxonomies]
 tag = ["Dev", "Leadership", "Management"]
-via = ["RSS"]
+via = ["Blog"]
 +++
 
 I think I've made many of these mistakes over the years:

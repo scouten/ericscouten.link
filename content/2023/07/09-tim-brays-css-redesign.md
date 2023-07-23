@@ -4,7 +4,7 @@ date = 2023-07-09T18:57:08-07:00
 
 [taxonomies]
 tag = ["CSS", "Design", "Dev"]
-via = ["RSS"]
+via = ["Blog"]
 +++
 
 Tim Bray asked for and found help bringing his home-grown CSS into the modern/mobile era.
