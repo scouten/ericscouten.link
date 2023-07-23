@@ -3,7 +3,7 @@ title = "Smarter C/C++ inlining with `__attribute__((flatten))`"
 date = 2023-07-22T00:15:30-07:00
 
 [taxonomies]
-tag = ["C++", "Dev"]
+tag = ["Dev"]
 via = ["Mastodon"]
 +++
 
