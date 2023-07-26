@@ -12,4 +12,4 @@ via [Addy Osmani](https://indieweb.social/@addyosmani/110772645477986807): The "
 
 <!-- more -->
 
-[Software Engineering at Google](https://abseil.io/resources/swe-book)
+Abseil: [Software Engineering at Google](https://abseil.io/resources/swe-book)
