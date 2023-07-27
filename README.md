@@ -1,6 +1,6 @@
-# tmbu.ericscouten.com
+# ericscouten.link
 
-Eric's link roll.
+Eric's link roll. (Briefly known as "This Might Be Useful.")
 
 ## About This Site
 
