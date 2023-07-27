@@ -3,7 +3,7 @@ title = "1Password can now manage SSH keys and sign git commits"
 date = 2023-07-26T11:25:16-07:00
 
 [taxonomies]
-tag = ["1Password", "Dev", "Ssh", "git"]
+tag = ["1Password", "Dev", "SSH", "git"]
 via = ["Mastodon"]
 +++
 
