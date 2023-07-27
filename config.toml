@@ -1,6 +1,6 @@
-base_url = "https://tmbu.ericscouten.com"
+base_url = "https://ericscouten.link"
 
-title = "This Might Be Useful"
+title = "Eric Scouten :: Links"
 description = "A linkroll of things I've found that might be useful someday."
 default_language = "en"
 
@@ -22,7 +22,7 @@ smart_punctuation = true
 [extra]
 hashtags = "#linkroll #tech #photography"
 endmark = true
-es_site = "tmbu"
+es_site = "link"
 map_clustering = false
 is_dark = true
 page_date_prefix = "Found on"
