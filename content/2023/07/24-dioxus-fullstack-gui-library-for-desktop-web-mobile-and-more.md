@@ -3,7 +3,7 @@ title = "dioxus: Fullstack GUI library for desktop, web, mobile, and more"
 date = 2023-07-24T08:22:04-07:00
 
 [taxonomies]
-tag = ["Dev", "Gui", "Rust"]
+tag = ["Dev", "GUI", "Rust"]
 via = ["Mastodon"]
 +++
 
