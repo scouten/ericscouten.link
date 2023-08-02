@@ -3,7 +3,7 @@ title = "Rust-powered desktop app for previewing documentation"
 date = 2023-03-06T02:13:50-08:00
 
 [taxonomies]
-tag = ["Desktop", "Docs", "Gui", "Rust", "Tauri"]
+tag = ["Desktop", "Docs", "GUI", "Rust", "Tauri"]
 via = ["Mastodon"]
 +++
 
