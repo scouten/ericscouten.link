@@ -3,7 +3,7 @@ title = "MarkDownload: Download HTML and convert to Markdown"
 date = 2023-08-03T08:57:05-07:00
 
 [taxonomies]
-tag = ["App", "Mac", "Markdown", "Web"]
+tag = ["App", "Mac", "Markdown", "Safari", "Web"]
 via = ["Podcast"]
 +++
 
