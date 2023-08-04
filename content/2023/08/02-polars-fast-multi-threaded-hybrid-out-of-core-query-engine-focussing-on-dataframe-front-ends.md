@@ -4,6 +4,7 @@ date = 2023-08-02T06:57:13-07:00
 
 [taxonomies]
 tag = ["Database", "Dev", "Query", "Rust"]
+via = ["Mastodon"]
 +++
 
 via [Rust Trending](https://botsin.space/@RustTrending/110817955907706206): pola-rs / polars: Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends ★18955
