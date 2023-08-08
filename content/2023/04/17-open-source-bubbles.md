@@ -3,7 +3,7 @@ title = "Open source bubbles"
 date = 2023-04-17T12:15:39-04:00
 
 [taxonomies]
-tag = ["Dev", "Oss"]
+tag = ["Dev", "OSS"]
 via = ["Mastodon"]
 +++
 
