@@ -3,7 +3,7 @@ title = "Icon idea for showing AI-generated content"
 date = 2023-08-10T09:29:50-07:00
 
 [taxonomies]
-tag = ["Ai", "Design", "Dev", "Web"]
+tag = ["AI", "Design", "Dev", "Web"]
 +++
 
 Design concept for an icon to easily identify AI-generated concept.

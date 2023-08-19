@@ -3,7 +3,7 @@ title = "LiteFS Cloud: Distributed SQLite with managed backups"
 date = 2023-07-07T23:25:20-07:00
 
 [taxonomies]
-tag = ["Cloud", "Database", "Dev", "Sqlite"]
+tag = ["Cloud", "Database", "Dev", "SQLite"]
 via = ["Mastodon"]
 +++
 
