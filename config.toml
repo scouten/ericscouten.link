@@ -27,6 +27,8 @@ map_clustering = false
 is_dark = true
 page_date_prefix = "Found on"
 article_type = "maybe-useful links"
+fathom_site_id = "LNQINENF"
+plausible_site_id = "ericscouten.link"
 
 [[taxonomies]]
 name = "tag"
