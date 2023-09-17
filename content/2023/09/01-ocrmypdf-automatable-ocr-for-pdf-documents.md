@@ -3,7 +3,7 @@ title = "ocrmypdf - Automatable OCR for PDF documents"
 date = 2023-09-01T07:12:19-07:00
 
 [taxonomies]
-tag = ["App", "Mac", "Pdf"]
+tag = ["App", "Mac", "PDF"]
 via = ["Mastodon"]
 +++
 
