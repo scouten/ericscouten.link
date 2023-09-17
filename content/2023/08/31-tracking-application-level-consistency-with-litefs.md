@@ -13,4 +13,4 @@ via [Kevin Stewart](https://hachyderm.io/@kstewart/110987592416867066): Tracking
 
 Ben Johnson on _The Fly Blog_: [Tracking Application-Level Consistency with LiteFS](https://fly.io/blog/tracking-consistency-with-litefs/)
 
-_(My take: "Distributed" and "SQLite" are two conceptsw that just don't belong together. I'm afraid. Thankfully not doing any work these days where those two things might intersect.)_
+_(My take: "Distributed" and "SQLite" are two concepts that just don't belong together. I'm afraid. Thankfully not doing any work these days where those two things might intersect.)_
