@@ -8,6 +8,7 @@ $scheme-main: #18181c;
 $text: hsl(0, 0%, 100%);
 $link: hsl(0, 0%, 60%);
 $accent-text-color: hsl(0, 0, 100%);
+$preferred-text-width: 48rem;
 
 @import url('https://use.typekit.net/hwf0fzd.css');
 @import "../themes/zola-es-theme/sass/style.scss";
