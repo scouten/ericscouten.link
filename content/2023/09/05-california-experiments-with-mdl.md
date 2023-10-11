@@ -3,7 +3,7 @@ title = "California experiments with mDL"
 date = 2023-09-05T17:21:14-07:00
 
 [taxonomies]
-tag = ["Dev", "Identity", "Mdl", "Ssi"]
+tag = ["Dev", "Identity", "MDL", "SSI"]
 via = ["Mastodon"]
 +++
 
