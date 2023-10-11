@@ -28,6 +28,9 @@ is_dark = true
 page_date_prefix = "Found on"
 article_type = "maybe-useful links"
 fathom_site_id = "LNQINENF"
+hyvor_site_id = 9768
+comments_enabled_default = true
+section_reverse_default = true
 
 [[taxonomies]]
 name = "tag"
