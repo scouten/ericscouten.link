@@ -3,7 +3,7 @@ title = "Announcing Zngur: A C++/Rust interop tool"
 date = 2023-10-11T18:22:01-07:00
 
 [taxonomies]
-tag = ["C++", "Dev", "Rust"]
+tag = ["Dev", "Rust"]
 via = ["Mastodon"]
 +++
 
