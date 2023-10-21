@@ -1,5 +1,5 @@
 +++
-title = "The cult of Obsidian"
+title = "The cult of Obsidian?"
 date = 2023-10-14T20:52:28-07:00
 
 [taxonomies]
