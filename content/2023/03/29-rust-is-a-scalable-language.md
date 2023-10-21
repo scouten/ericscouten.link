@@ -11,4 +11,4 @@ via [Rust Weekly](https://mastodon.social/@rust_discussions/110106974310583140):
 
 <!-- more -->
 
-matklad: [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
+Alex Kladov on _matklad_: [Rust Is a Scalable Language](https://matklad.github.io/2023/03/28/rust-is-a-scalable-language.html)
