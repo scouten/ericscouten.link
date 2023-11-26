@@ -7,7 +7,7 @@ tag = ["Dev", "Leadership", "Management"]
 via = ["Blog"]
 +++
 
-Will Larson on _Irrational Exuberance:_ [Navigators](https://lethain.com/navigators/ Navigators)
+Will Larson on _Irrational Exuberance:_ [Navigators](https://lethain.com/navigators/)
 
 <!-- more -->
 
