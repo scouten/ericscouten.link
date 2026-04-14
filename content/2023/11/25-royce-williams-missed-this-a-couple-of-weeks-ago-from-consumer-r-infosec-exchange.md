@@ -1,6 +1,7 @@
 +++
 title = "How to turn off Smart TV snooping features"
 date = 2023-11-25T22:07:41-08:00
+
 [taxonomies]
 tag = ["Security", "Mastodon", "TV"]
 via = ["Mastodon"]
