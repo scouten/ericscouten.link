@@ -7,7 +7,7 @@ tag = ["Dev", "Leadership", "Management"]
 via = ["Mastodon"]
 +++
 
-via [julia ferraioli :cc_by:](https://floss.social/@juliaferraioli/110815053764458613): July's piece dropped late last night—and it's about undervalued work. Specifically what @whereistanya calls "glue work".
+via [julia ferraioli :cc_by:](https://floss.social/@juliaferraioli/110815053764458613): July's piece dropped late last night — and it's about undervalued work. Specifically what @whereistanya calls "glue work".
 
 <!-- more -->
 

@@ -7,7 +7,7 @@ tag = ["Mac", "CLI", "Photography"]
 via = ["Mastodon"]
 +++
 
-Simon Willison: TIL that macOS ships with a default CLI command called "sips," for "scriptable image processing system" - and it can convert webp images to PNG, but it can also generate entirely new images from scratch using an almost entirely undocumented canvas-based JavaScript API!
+Simon Willison: TIL that macOS ships with a default CLI command called "sips," for "scriptable image processing system" — and it can convert webp images to PNG, but it can also generate entirely new images from scratch using an almost entirely undocumented canvas-based JavaScript API!
 
 <!-- more -->
 

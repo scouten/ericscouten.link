@@ -11,6 +11,6 @@ via [⛈️ Information ⛈️](https://mastodon.social/@Elucidating/11106547350
 
 <!-- more -->
 
-[B612 – The font family](https://b612-font.com/)
+[B612 — The font family](https://b612-font.com/)
 
 _(My take: Ooh, this is very fun! Multiple geek buttons being pressed here. Not that I'll ever be a pilot, but I do geek out on aviation a bit, too. And I've been into fonts and typography since I was very young.)

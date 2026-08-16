@@ -7,7 +7,7 @@ tag = ["Dev", "Leadership", "Management"]
 via = ["Mastodon"]
 +++
 
-via [Kevin Stewart](https://hachyderm.io/@kstewart/110922983153985350): The farther you go up the ladder, the less it’s about your technical skills – Jim Grey
+via [Kevin Stewart](https://hachyderm.io/@kstewart/110922983153985350): The farther you go up the ladder, the less it’s about your technical skills — Jim Grey
 
 <!-- more -->
 

@@ -23,4 +23,4 @@ _(My take: This is a vastly shortened excerpt of the transcript. If it piques yo
 > 6. At all times, simply rely on a joyful mind.
 > 7. Don’t expect a standing ovation.
 
-– Jack Kornfield starting at 1:15:26 on _The Tim Ferriss Show_: [#684: Jack Kornfield – How to Reduce Anxiety and Polish the Lens of Consciousness](https://overcast.fm/+Kebtna-8I/1:15:26)
+— Jack Kornfield starting at 1:15:26 on _The Tim Ferriss Show_: [#684: Jack Kornfield — How to Reduce Anxiety and Polish the Lens of Consciousness](https://overcast.fm/+Kebtna-8I/1:15:26)

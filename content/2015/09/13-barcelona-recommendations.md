@@ -31,7 +31,7 @@ Me (on Facebook, now deleted):
 
 * For one of the best Barcelona experiences stay in the Eixample neighborhood north of the plaza Catalunya to be close to the magnificent architecture by Gaudí. Maybe [Hotel Casa Fuster](https://www.hotelcasafuster.com/en/).
 
-* We stayed at [Onix Hotel](https://onixhotels.com/en/onixrambla/), near Plaça Catalunya. The hotel was nice, and the location was great - easy to walk everywhere we wanted to go. Had some excellent tapas at Cervecería Catalana, and at Cal Pep. Definitely hit Bar Pinotxo in La Boqueria - the market is amazing, and the food at this small bar is top notch.
+* We stayed at [Onix Hotel](https://onixhotels.com/en/onixrambla/), near Plaça Catalunya. The hotel was nice, and the location was great — easy to walk everywhere we wanted to go. Had some excellent tapas at Cervecería Catalana, and at Cal Pep. Definitely hit Bar Pinotxo in La Boqueria — the market is amazing, and the food at this small bar is top notch.
 
 * Travel Channel: [Barcelona Room with a View](https://www.travelchannel.com/videos/barcelona-room-with-a-view-0140316?fbclid=IwAR0g_tVB6Uv9_04qLln-1C2LLtfzROCJT6cCq4AWNc40pK5fxxrNpxtnNNs)
 

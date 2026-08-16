@@ -11,4 +11,4 @@ via [Shawn Blanc](https://shawnblanc.net/2023/06/the-3-laws-of-a-flywheel/): Art
 
 <!-- more -->
 
-Nathan Barry: [Creator Flywheels – The Operating System for Your Business](https://nathanbarry.com/creator-flywheels/)
+Nathan Barry: [Creator Flywheels — The Operating System for Your Business](https://nathanbarry.com/creator-flywheels/)

@@ -19,7 +19,7 @@ Me (on Facebook, now deleted):
 
 * We liked Evora in Portugal, so that's one place to consider stopping on the way to Lisbon.
 
-* A side trip to Morocco, the Algarve (southern Portugal), Porto in the north (for great port wines!). While in Florence, the Galleria degl Uffizi - A. Must. Stop! I could go on and on ...
+* A side trip to Morocco, the Algarve (southern Portugal), Porto in the north (for great port wines!). While in Florence, the Galleria degl Uffizi — A. Must. Stop! I could go on and on ...
 
 * I forgot the Museo Galileo, housing Galileo's instruments and other artifacts from the 15/16th centuries. It is a great visit.
 

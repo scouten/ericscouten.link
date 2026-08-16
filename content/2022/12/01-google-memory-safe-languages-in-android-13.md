@@ -6,7 +6,7 @@ date = 2022-12-01T11:55:00-08:00
 tag = ["Rust", "Google", "Android", "Dev"]
 +++
 
-Google: For more than a decade, memory safety vulnerabilities have consistently represented more than 65% of vulnerabilities across products, and across the industry. On Android, we’re now seeing something different - a significant drop in memory safety vulnerabilities and an associated drop in the severity of our vulnerabilities.
+Google: For more than a decade, memory safety vulnerabilities have consistently represented more than 65% of vulnerabilities across products, and across the industry. On Android, we’re now seeing something different — a significant drop in memory safety vulnerabilities and an associated drop in the severity of our vulnerabilities.
 
 <!-- more -->
 

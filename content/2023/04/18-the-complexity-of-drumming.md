@@ -7,7 +7,7 @@ tag = ["Drum", "Music"]
 via = ["Mastodon"]
 +++
 
-via [kottke.org](https://botsin.space/@kottke/110220143619198341): A video demonstration of the 13 levels of complexity of drumming. This was super fun and informative to watch – I didn&#39;t know much about drumming going into this and now my appreciation for this art is off the charts.
+via [kottke.org](https://botsin.space/@kottke/110220143619198341): A video demonstration of the 13 levels of complexity of drumming. This was super fun and informative to watch — I didn&#39;t know much about drumming going into this and now my appreciation for this art is off the charts.
 
 <!-- more -->
 

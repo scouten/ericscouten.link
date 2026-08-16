@@ -7,7 +7,7 @@ tag = ["Dev", "Go", "Rust", "Zig"]
 via = ["Mastodon"]
 +++
 
-via [Kevin Stewart](https://hachyderm.io/@kstewart/111038738234975581): Using Zig in our incremental Turborepo migration from Go to Rust – Vercel
+via [Kevin Stewart](https://hachyderm.io/@kstewart/111038738234975581): Using Zig in our incremental Turborepo migration from Go to Rust — Vercel
 
 <!-- more -->
 

@@ -13,4 +13,4 @@ via [Dave Copeland :ruby:](https://ruby.social/@davetron5000/111250498052198101)
 
 Dave Copeland on _NailDrivin5:_ [The Katz Conjecture: You Must Understand What an Abstraction Abstracts](https://www.naildrivin5.com/blog/2023/10/17/the-katz-conjecture-you-must-understand-what-an-abstraction-abstracts.html)
 
-_(My take: This absolutely matches my own experience. The **promise** of an abstraction is that it trades away a complex concept for a simpler one. But ... when an abstraction leaks -- and this **often** happens -- you wind up needing to have deep understanding of **both** the abstraction layer **and** the thing it was intending to "simplify" away. So ... beware the hidden costs of abstractions.)_
+_(My take: This absolutely matches my own experience. The **promise** of an abstraction is that it trades away a complex concept for a simpler one. But ... when an abstraction leaks — and this **often** happens — you wind up needing to have deep understanding of **both** the abstraction layer **and** the thing it was intending to "simplify" away. So ... beware the hidden costs of abstractions.)_

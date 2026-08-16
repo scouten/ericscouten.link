@@ -7,7 +7,7 @@ tag = ["Dev", "Docs", "Rust"]
 via = ["Mastodon"]
 +++
 
-via [Gankra](https://toot.cat/@Gankra/110651119105916181): We just released the first version of our next release-engineering tool -- oranda!
+via [Gankra](https://toot.cat/@Gankra/110651119105916181): We just released the first version of our next release-engineering tool — oranda!
 
 <!-- more -->
 

@@ -15,4 +15,4 @@ Kobzol’s blog: [Writing Python like it’s Rust](https://kobzol.github.io/rust
 
 Key quote:
 
-> Eventually, I started adopting some concepts from Rust in my Python programs. It basically boils down to two things -- using type hints as much as possible, and upholding the good ol’ [making illegal states unrepresentable](https://ybogomolov.me/making-illegal-states-unrepresentable) principle.
+> Eventually, I started adopting some concepts from Rust in my Python programs. It basically boils down to two things — using type hints as much as possible, and upholding the good ol’ [making illegal states unrepresentable](https://ybogomolov.me/making-illegal-states-unrepresentable) principle.

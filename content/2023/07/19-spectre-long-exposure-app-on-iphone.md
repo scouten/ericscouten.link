@@ -19,7 +19,7 @@ _(My take: Just downloaded the app; eager to kick the tires.)_
 
 [Follow up via sdw on Mastodon](https://mastodon.social/@sdw/110735582038591805): 
 
-> Spectre is still pretty nuts to use - doing a 15 or 30 second long exposure without a tripod on my iPhone with one tap. 
+> Spectre is still pretty nuts to use — doing a 15 or 30 second long exposure without a tripod on my iPhone with one tap. 
 >
 > This is Amsterdam at its peak busy summer season. The square was full of people — but after a single shot, it looks empty.
 

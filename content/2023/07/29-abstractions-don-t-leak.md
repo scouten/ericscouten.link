@@ -15,7 +15,7 @@ via [yosh](https://toot.yosh.is/@yosh/110796849203416624): yes… Yes!
 
 > abstractions don't leak, either.
 >
-> leaky abstractions are just another way of talking about "information hiding"—abstractions can share details, abstractions can partition details, but sure enough, they don't really hide anything from the programmer.
+> leaky abstractions are just another way of talking about "information hiding" — abstractions can share details, abstractions can partition details, but sure enough, they don't really hide anything from the programmer.
 >
 > despite people yelling "all abstractions leak detail" no-one stops to think "maybe we shouldn't be using them to hide things in the first place." alas
 

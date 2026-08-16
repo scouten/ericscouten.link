@@ -7,7 +7,7 @@ tag = ["AWS", "Dev", "Rust", "S3"]
 via = ["Mastodon"]
 +++
 
-via [Rust Weekly](https://mastodon.social/@rust_discussions/110023923784008109): Mountpoint – file client for S3 written in Rust, from AWS
+via [Rust Weekly](https://mastodon.social/@rust_discussions/110023923784008109): Mountpoint — file client for S3 written in Rust, from AWS
 
 <!-- more -->
 

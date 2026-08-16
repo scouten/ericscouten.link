@@ -7,7 +7,7 @@ tag = ["Mac", "Metadata", "Music", "iPhone", "iOS"]
 via = ["Mastodon"]
 +++
 
-via [Federico Viticci](https://mastodon.macstories.net/@viticci/110338701684971354): If you care about music metadata, the best app for liner notes -- the excellent MusicSmart by @mactanaka -- got a big 2.0 update and it somehow got even better.
+via [Federico Viticci](https://mastodon.macstories.net/@viticci/110338701684971354): If you care about music metadata, the best app for liner notes — the excellent MusicSmart by @mactanaka — got a big 2.0 update and it somehow got even better.
 
 <!-- more -->
 

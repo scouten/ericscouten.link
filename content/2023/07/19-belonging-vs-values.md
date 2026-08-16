@@ -7,7 +7,7 @@ tag = ["Life", "Society", "Value"]
 via = ["Podcast"]
 +++
 
-Mic drop quote: "We will choose belonging at the expense of our values -- our stated values -- in many circumstances."
+Mic drop quote: "We will choose belonging at the expense of our values — our stated values — in many circumstances."
 
 <!-- more -->
 

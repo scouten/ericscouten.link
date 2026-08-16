@@ -15,4 +15,4 @@ For our first episode, we invited several speakers from the 2023 conference to c
 
 Listen to episode 01 and read the show notes here!
 
-Boris Mann and  Zeeshan Lakhani and guests on _Causal Islands Podcast_: [EP01: Causal Islands 2023 Recap – Fission](https://fission.codes/blog/ep01-causal-islands-2023-recap/)
+Boris Mann and  Zeeshan Lakhani and guests on _Causal Islands Podcast_: [EP01: Causal Islands 2023 Recap — Fission](https://fission.codes/blog/ep01-causal-islands-2023-recap/)

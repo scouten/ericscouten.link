@@ -1,5 +1,5 @@
 +++
-title = "Ankur Patel: Microsoft’s Decentralized Identity Product—Entra Verified ID"
+title = "Ankur Patel: Microsoft’s Decentralized Identity Product — Entra Verified ID"
 date = 2023-07-21T21:14:55-07:00
 
 [taxonomies]
@@ -10,7 +10,7 @@ Riley Hughes, CEO of Trinsic, interviews Ankur Patel, Head of Product at Entra V
 
 <!-- more -->
 
-Trinsic's _The Future of Identity_ podcast: [Ankur Patel: Microsoft's Decentralized Identity Product -- Entra Verified ID](https://overcast.fm/+_fZxREoLU)
+Trinsic's _The Future of Identity_ podcast: [Ankur Patel: Microsoft's Decentralized Identity Product — Entra Verified ID](https://overcast.fm/+_fZxREoLU)
 
 From the show notes:
 

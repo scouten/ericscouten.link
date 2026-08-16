@@ -13,4 +13,4 @@ via [Steven Woolgar](https://mastodon.social/@woolie/111287370698352304): @schwa
 
 [Secrets: Password Manager for iOS and macOS](https://secrets.app)
 
-_(My take: I haven't reviewed it, but I'm paying attention. Very long-time -- and mostly happy -- 1Password user, but I'm seeing lots of people drift away from 1P and I'm a little queasy about their shift from consumer to enterprise focus.)_
+_(My take: I haven't reviewed it, but I'm paying attention. Very long-time — and mostly happy — 1Password user, but I'm seeing lots of people drift away from 1P and I'm a little queasy about their shift from consumer to enterprise focus.)_

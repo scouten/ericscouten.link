@@ -11,6 +11,6 @@ via [yosh](https://toot.yosh.is/@yosh/110690213094471200): New blog post: Bridgi
 
 <!-- more -->
 
-In which I introduce `heckcheck`: a small property testing library I wrote a few years ago. It makes use of the same structured input infrastructure used by `cargo-fuzz` - but instead of using it for fuzzing it uses it for property testing!
+In which I introduce `heckcheck`: a small property testing library I wrote a few years ago. It makes use of the same structured input infrastructure used by `cargo-fuzz` — but instead of using it for fuzzing it uses it for property testing!
 
 Yoshua Wuyts: [bridging fuzzing and property testing](https://blog.yoshuawuyts.com/bridging-fuzzing-and-property-testing/)

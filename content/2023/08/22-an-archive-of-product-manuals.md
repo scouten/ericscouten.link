@@ -7,7 +7,7 @@ tag = ["Archive", "Manual"]
 via = ["Mastodon"]
 +++
 
-via [internetarchive](https://mastodon.archive.org/@internetarchive/110928868917906388): Washer on the fritz? Can't figure out why that light is blinking on your dashboard? 📒 Check out our collection of >3 million manuals spanning various topics – from household items to tech to crafts and beyond!
+via [internetarchive](https://mastodon.archive.org/@internetarchive/110928868917906388): Washer on the fritz? Can't figure out why that light is blinking on your dashboard? 📒 Check out our collection of >3 million manuals spanning various topics — from household items to tech to crafts and beyond!
 
 <!-- more -->
 

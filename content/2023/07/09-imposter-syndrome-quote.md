@@ -14,4 +14,4 @@ This quote from a recent episode struck me as a brilliant reframe of imposter sy
 
 > Imposter syndrome never goes away, but it's really an indication that you care about the work that you're doing.
 
--- Justin Moore in _Focused_ podcast [Episode 181: Walking Your Own Path](https://overcast.fm/+QCTRKlXe8/56:48)
+— Justin Moore in _Focused_ podcast [Episode 181: Walking Your Own Path](https://overcast.fm/+QCTRKlXe8/56:48)

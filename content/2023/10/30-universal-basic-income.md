@@ -15,7 +15,7 @@ Michael Venutolo-Mantovani on _Business Insider:_ [Universal basic income is wor
 
 _My take:_ I usually avoid controversial topics here, but this one seems important and contains some viable lessons that should appeal across the various aisles of our country.
 
-UBI is showing itself to be effective -- more importantly **cost** effective -- in a wide variety of contexts. Durham, North Carolina's Mayor shows how to respond to the predictable criticism of the approach by being purely selfish:
+UBI is showing itself to be effective — more importantly **cost** effective — in a wide variety of contexts. Durham, North Carolina's Mayor shows how to respond to the predictable criticism of the approach by being purely selfish:
 
 > We're going to have to pay for these people one way or another, either in incarceration, benefits, homeless shelters, whatever it is. It seems to me that spending more money up front makes more sense than housing folks, monitoring and feeding them, and taking care of their healthcare in prison.
 

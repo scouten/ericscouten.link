@@ -18,4 +18,4 @@ _(I **love** that phrase.)_
 
 > The urgency and stress that I had are no longer present and I didn't notice them leave.
 
--- David Sparks and Mike Schmitz on _Focused_ podcast [Episode 180: A Focused Hodgepodge](https://overcast.fm/+QCTTPBQzU/10:29)
+— David Sparks and Mike Schmitz on _Focused_ podcast [Episode 180: A Focused Hodgepodge](https://overcast.fm/+QCTTPBQzU/10:29)

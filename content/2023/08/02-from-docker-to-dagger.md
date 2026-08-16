@@ -15,4 +15,4 @@ via _The Changelog_ podcast: [From Docker to Dagger](https://changelog.com/podca
 
 [Dagger: CI/CD as Code that Runs Anywhere](https://dagger.io)
 
-_(My take: I'm not entirely sure what Dagger is yet -- and it looks like early days yet -- but the CI/CD space is rife for disruption. Watch this space ...)_
+_(My take: I'm not entirely sure what Dagger is yet — and it looks like early days yet — but the CI/CD space is rife for disruption. Watch this space ...)_

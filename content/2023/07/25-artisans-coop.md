@@ -13,4 +13,4 @@ via [Dave Polaschek](https://woodworking.group/@davepolaschek/110775245371163046
 
 [Artisans Cooperative](https://artisans.coop/)
 
-_(NOTE: Dave originally linked to an offer to join as a lifetime member by the end of July. I'm not linking to that post because (a) I'm not joining at this time, and (b) this page -- and thus this link -- should be meaningful after 31 July.)_
+_(NOTE: Dave originally linked to an offer to join as a lifetime member by the end of July. I'm not linking to that post because (a) I'm not joining at this time, and (b) this page — and thus this link — should be meaningful after 31 July.)_

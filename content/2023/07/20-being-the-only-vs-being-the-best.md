@@ -10,6 +10,6 @@ Tim Ferriss: "I really think you need to seek to be a category of one. It's a lo
 
 <!-- more -->
 
-Tim Ferriss on _The Tim Ferriss Show_: [#682: Bill Gurley Interviews Tim Ferriss -- Reflecting on 20+ Years of Life and Business Experiments](https://overcast.fm/+KebtCKIZE/47:47)
+Tim Ferriss on _The Tim Ferriss Show_: [#682: Bill Gurley Interviews Tim Ferriss — Reflecting on 20+ Years of Life and Business Experiments](https://overcast.fm/+KebtCKIZE/47:47)
 
 _(My take: Overall a fun podcast episode. Link skips directly to the part I quoted above.)_

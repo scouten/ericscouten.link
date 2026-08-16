@@ -17,4 +17,4 @@ From _Wikipedia_ [Fluid ounce](https://en.wikipedia.org/wiki/Fluid_ounce):
 >
 > A US food labeling fluid ounce is exactly 30 mL.
 
-_(My take: Seriously? We have two definitions for fluid ounce that are 1.4% different from each other -- and also different by a few more percent from the "imperial" (UK) definition? This makes just about zero sense to me. Why, America, why? Also: Why have we **not** converted to metric already? Time for this nonsense to end.)_
+_(My take: Seriously? We have two definitions for fluid ounce that are 1.4% different from each other — and also different by a few more percent from the "imperial" (UK) definition? This makes just about zero sense to me. Why, America, why? Also: Why have we **not** converted to metric already? Time for this nonsense to end.)_

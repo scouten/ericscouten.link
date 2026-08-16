@@ -7,7 +7,7 @@ tag = ["Agile", "Dev", "Scrum"]
 via = ["Mastodon"]
 +++
 
-via [Mark Levison](https://agilealliance.social/@mlevison/110730971864854219): Backlog Refinement can prevent Zombie Scrum - I love the phrase Zombie Scrum. It conjures to mind teams using the practices of Scrum and getting limited benefit. They ran a workshop with their subscribers to find what was helping them with #ProductBacklogRefinement.
+via [Mark Levison](https://agilealliance.social/@mlevison/110730971864854219): Backlog Refinement can prevent Zombie Scrum — I love the phrase Zombie Scrum. It conjures to mind teams using the practices of Scrum and getting limited benefit. They ran a workshop with their subscribers to find what was helping them with #ProductBacklogRefinement.
 
 <!-- more -->
 

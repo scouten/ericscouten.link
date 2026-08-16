@@ -13,6 +13,6 @@ via [Mike Bowler](https://hachyderm.io/@mike_bowler/110826692149645183): We've a
 
 > Is your agile team being asked "when will you be done" and don't have an accurate answer for that? Probabilistic forecasting is the way to get that answer, both easily and accurately.
 
-[Buy tickets / Join the guestlist – Applying Metrics for Predictability](https://www.tickettailor.com/events/improvingflow/950016/r/mastodon)
+[Buy tickets / Join the guestlist — Applying Metrics for Predictability](https://www.tickettailor.com/events/improvingflow/950016/r/mastodon)
 
 _(My take: Hmmm ... sounds interesting.)_

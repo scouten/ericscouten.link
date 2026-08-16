@@ -13,4 +13,4 @@ via [jadeforrest](https://mstdn.social/@jadeforrest@tech.lgbt/110589410620613891
 
 TL;DR? Quite compelling, but still experimental.
 
-Jade Rubick: [A detailed look at FAST agile -- a practice well worth your time](https://www.rubick.com/fast-agile/?utm_source=mastodon-fast-agile&utm_medium=mastodon&utm_campaign=fast-agile)
+Jade Rubick: [A detailed look at FAST agile — a practice well worth your time](https://www.rubick.com/fast-agile/?utm_source=mastodon-fast-agile&utm_medium=mastodon&utm_campaign=fast-agile)

@@ -13,4 +13,4 @@ A thorough guide mapping C++ constructor patterns to idiomatic Rust equivalents.
 
 <!-- more -->
 
-[Idiomatic Rust (for C++ Devs): Constructors & Conversions – Geo's Notepad – Mostly Programming and Math](https://geo-ant.github.io/blog/2023/rust-for-cpp-developers-constructors/)
+[Idiomatic Rust (for C++ Devs): Constructors & Conversions — Geo's Notepad — Mostly Programming and Math](https://geo-ant.github.io/blog/2023/rust-for-cpp-developers-constructors/)

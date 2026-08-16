@@ -13,7 +13,7 @@ via [pixelfed](https://mastodon.social/@pixelfed/110703980980525426): ✨ Offici
 
 pixelfed.cloud is a cutting-edge hosting solution exclusively tailored for Pixelfed, the popular photo-sharing platform. 
 
-By leveraging our expertise and infrastructure, we are bringing you a seamless and powerful hosting experience, allowing you to focus on what matters most - sharing your captivating photos with the world.
+By leveraging our expertise and infrastructure, we are bringing you a seamless and powerful hosting experience, allowing you to focus on what matters most — sharing your captivating photos with the world.
 
 Coming soon!
 

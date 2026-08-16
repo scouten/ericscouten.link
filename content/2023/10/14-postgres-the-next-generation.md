@@ -7,7 +7,7 @@ tag = ["Database", "Dev", "Postgres"]
 via = ["Mastodon"]
 +++
 
-via [Kevin Stewart](https://hachyderm.io/@kstewart/111235536807848081): Postgres: the next generation. Investing in the next generation of committers. – James Governor's Monkchips
+via [Kevin Stewart](https://hachyderm.io/@kstewart/111235536807848081): Postgres: the next generation. Investing in the next generation of committers. — James Governor's Monkchips
 
 <!-- more -->
 

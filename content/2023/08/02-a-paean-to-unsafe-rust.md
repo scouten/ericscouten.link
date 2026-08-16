@@ -11,6 +11,6 @@ via [Rust Weekly](https://mastodon.social/@rust_discussions/110820798327087674):
 
 <!-- more -->
 
-Chris Krycho: [Unsafe — SympolymathesyZ](https://v5.chriskrycho.com/journal/unsafe/)
+Chris Krycho: [Unsafe — SympolymathesyZ](https://v5.chriskrycho.com/journal/unsafe/)
 
 _(My take: Unrelated, but I like this blog design! Excellent attention to typographical detail.)_

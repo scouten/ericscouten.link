@@ -7,7 +7,7 @@ tag = ["Agile", "Dev", "Scrum"]
 via = ["Mastodon"]
 +++
 
-via [Mark Levison](https://agilealliance.social/@mlevison/110708301545398913): Mise en place of Great Scrum Teams, Christiaan Verwijs - outlines 5 strategies on making refinement better:
+via [Mark Levison](https://agilealliance.social/@mlevison/110708301545398913): Mise en place of Great Scrum Teams, Christiaan Verwijs — outlines 5 strategies on making refinement better:
 
 <!-- more -->
 

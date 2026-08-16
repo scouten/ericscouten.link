@@ -15,4 +15,4 @@ So if I understand it correctly pre-conditions apply on what comes before the ar
 
 Or differently put: pre-conditions apply to function input, post-conditions apply to function output? Where mutable references are also considered a form of function output?
 
-Nico Lehmann on YouTube: [2023 05 17, Flux -- Liquid Types for Rust](https://youtu.be/k-izcFCHN2o)
+Nico Lehmann on YouTube: [2023 05 17, Flux — Liquid Types for Rust](https://youtu.be/k-izcFCHN2o)

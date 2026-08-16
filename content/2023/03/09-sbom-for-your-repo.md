@@ -7,7 +7,7 @@ tag = ["Dev", "Rust", "SBOM"]
 via = ["Mastodon"]
 +++
 
-via [Allan Friedman](https://infosec.exchange/@allanfriedman/109993936289550221): This is pretty cool: a brand new free @github tool for creating #SBOM data for your repos. Built on the dependency graph API -- supports Go, Rust, NPM, maven, and more. Both CDX and SPDX support!
+via [Allan Friedman](https://infosec.exchange/@allanfriedman/109993936289550221): This is pretty cool: a brand new free @github tool for creating #SBOM data for your repos. Built on the dependency graph API — supports Go, Rust, NPM, maven, and more. Both CDX and SPDX support!
 
 <!-- more -->
 

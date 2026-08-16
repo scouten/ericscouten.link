@@ -15,8 +15,8 @@ Ed Batista: [Leader as Shock Absorber](https://www.edbatista.com/2022/10/leader-
 
 Key quotes:
 
-> A shock absorber cushions the blow -- it doesn't prevent the flow of force.
+> A shock absorber cushions the blow — it doesn't prevent the flow of force.
 >
-> A shock absorber pushes back -- in both directions.
+> A shock absorber pushes back — in both directions.
 >
 > A shock absorber is, above all else, resilient.

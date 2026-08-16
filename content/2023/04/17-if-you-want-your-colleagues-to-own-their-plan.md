@@ -7,7 +7,7 @@ tag = ["Leadership"]
 via = ["Mastodon"]
 +++
 
-via [Matt Weagle](https://hachyderm.io/@mweagle/110216563744191151): "If you want your colleagues to own their plan, they need to come up with their next steps themselves -- with your support."
+via [Matt Weagle](https://hachyderm.io/@mweagle/110216563744191151): "If you want your colleagues to own their plan, they need to come up with their next steps themselves — with your support."
 
 <!-- more -->
 
