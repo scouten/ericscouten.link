@@ -3,7 +3,7 @@ title = "GitButler"
 date = 2026-02-18T16:31:01-08:00
 
 [taxonomies]
-tag = ["Git", "Rust", "Tauri"]
+tag = ["git", "Rust", "Tauri"]
 via = ["Mastodon"]
 +++
 
